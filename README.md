@@ -27,4 +27,5 @@
     <a href = "https://www.instagram.com/allanwerneck/">
       <img width="25" src="instagram.png">
     </a>
+    
 </div>
