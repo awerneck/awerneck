@@ -1,4 +1,4 @@
-## Faaaala devs, Allan Werneck por aqui!
+## Fala devs, Allan Werneck por aqui!
 
 
 <br>
